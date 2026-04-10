@@ -8,7 +8,7 @@ This project is more than just a blog — it represents my journey of building r
 
 ## 🌐 Live Demo
 
-🔗 https://
+🔗 https://dev-logs-by-ks-umber.vercel.app/
 
 ---
 
